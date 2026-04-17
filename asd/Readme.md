@@ -8,8 +8,12 @@
 - Main-workflow에는 index를 제외한 4개의 모듈이 들어갑니다.
 - 각 모듈도 workflow로 구성했습니다
 
+
+![image](https://rfcjwfcfjbykdpmgkmwm.supabase.co/storage/v1/object/public/images/uploads/1776393403106-5n4xh7.webp)
+
+
 <p align="center">
-  <img src="[https://rfcjwfcfjbykdpmgkmwm.supabase.co/storage/v1/object/public/images/uploads/1776393676420-7wyfoy.webp]
+  <img src="https://rfcjwfcfjbykdpmgkmwm.supabase.co/storage/v1/object/public/images/uploads/1776393676420-7wyfoy.webp">
 </p>
 
 ---
