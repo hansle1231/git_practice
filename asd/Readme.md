@@ -91,7 +91,11 @@ class PreWorkflow(Workflow):
 - sub-workflow에는 어느 @step에서 어떤 operator들을 사용할지 dictionary 형태로 입력으로 줍니다.
 - sub-workflow는 이 operator list를 받아서 순서대로 실행하고 마지막에 결과를 반환합니다.
 
+## 테스트
+- index_module.inpynb 파일을 순서대로 실행하면 Qdrant 데이터베이스가 생성됩니다.
+- 데이터베이스 생성이 끝나면 modular_rag_main.ipynb파일을 실행하면 전체 workflow가 실행됩니다.
 
+  
 ## version
 
 - llama-index : 0.14.15
